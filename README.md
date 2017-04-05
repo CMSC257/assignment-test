@@ -2,6 +2,9 @@
 Test repository for students
 
 This is just a practice repository
+yed 
+lnusk@vcu.edu
+
 
 * **Tasks:**
     * Create new text file called details.txt
